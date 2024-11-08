@@ -49,6 +49,7 @@ namespace API.Controllers
                 PhoneNumberConfirmed = true,
             };
 
+
             var result = await userManager.CreateAsync(user, model.Password);
 
             if (!result.Succeeded)
