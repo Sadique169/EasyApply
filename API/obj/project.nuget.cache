@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8QxxvwxjnTcEb961MH9ZTqz44NPCXvPc/i/E1QbKCAbM/2swMgh0Jdc1xQd/JaXFfsOJ+f8jUh99Mk7c4Kpx6g==",
+  "dgSpecHash": "QszKR/TZtl8efuouvBa+nIoelH0Cn3byLC+n/6CsEe4ND7bjs26tNPljIWckOjwAEhQ/pVY1c+pg99LkMVpnxg==",
   "success": true,
-  "projectFilePath": "D:\\SadiqueMVC\\EasyApply\\API\\API.csproj",
+  "projectFilePath": "D:\\Git\\API Projects\\EasyApply\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

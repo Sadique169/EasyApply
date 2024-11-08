@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj",
+      "projectUniqueName": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj",
       "projectName": "EasyApply.Dto",
-      "projectPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj",
+      "projectPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Dto\\obj\\",
+      "outputPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

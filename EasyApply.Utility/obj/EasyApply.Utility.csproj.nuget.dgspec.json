@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj": {}
+    "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj": {}
   },
   "projects": {
-    "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj": {
+    "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj",
+        "projectUniqueName": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj",
         "projectName": "EasyApply.Utility",
-        "projectPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj",
+        "projectPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\obj\\",
+        "outputPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
