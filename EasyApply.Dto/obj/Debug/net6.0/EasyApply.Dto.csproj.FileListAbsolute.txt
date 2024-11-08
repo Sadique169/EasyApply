@@ -1,0 +1,12 @@
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\bin\Debug\net6.0\EasyApply.Dto.deps.json
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\bin\Debug\net6.0\EasyApply.Dto.dll
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\bin\Debug\net6.0\EasyApply.Dto.pdb
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.csproj.AssemblyReference.cache
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.AssemblyInfoInputs.cache
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.AssemblyInfo.cs
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.csproj.CoreCompileInputs.cache
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.dll
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\refint\EasyApply.Dto.dll
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\EasyApply.Dto.pdb
+D:\SadiqueMVC\EasyApply\EasyApply.Dto\obj\Debug\net6.0\ref\EasyApply.Dto.dll

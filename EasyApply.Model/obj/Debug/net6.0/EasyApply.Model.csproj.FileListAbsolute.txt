@@ -1,0 +1,12 @@
+D:\SadiqueMVC\EasyApply\EasyApply.Model\bin\Debug\net6.0\EasyApply.Model.deps.json
+D:\SadiqueMVC\EasyApply\EasyApply.Model\bin\Debug\net6.0\EasyApply.Model.dll
+D:\SadiqueMVC\EasyApply\EasyApply.Model\bin\Debug\net6.0\EasyApply.Model.pdb
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.csproj.AssemblyReference.cache
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.AssemblyInfoInputs.cache
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.AssemblyInfo.cs
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.csproj.CoreCompileInputs.cache
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.dll
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\refint\EasyApply.Model.dll
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\EasyApply.Model.pdb
+D:\SadiqueMVC\EasyApply\EasyApply.Model\obj\Debug\net6.0\ref\EasyApply.Model.dll
