@@ -12,3 +12,17 @@ D:\SadiqueMVC\EasyApply\EasyApply.Core\obj\Debug\net6.0\refint\EasyApply.Core.dl
 D:\SadiqueMVC\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.pdb
 D:\SadiqueMVC\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.genruntimeconfig.cache
 D:\SadiqueMVC\EasyApply\EasyApply.Core\obj\Debug\net6.0\ref\EasyApply.Core.dll
+D:\Git\API Projects\EasyApply\EasyApply.Core\bin\Debug\net6.0\EasyApply.Core.deps.json
+D:\Git\API Projects\EasyApply\EasyApply.Core\bin\Debug\net6.0\EasyApply.Core.runtimeconfig.json
+D:\Git\API Projects\EasyApply\EasyApply.Core\bin\Debug\net6.0\EasyApply.Core.dll
+D:\Git\API Projects\EasyApply\EasyApply.Core\bin\Debug\net6.0\EasyApply.Core.pdb
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.csproj.AssemblyReference.cache
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.AssemblyInfoInputs.cache
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.AssemblyInfo.cs
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.csproj.CoreCompileInputs.cache
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.dll
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\refint\EasyApply.Core.dll
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.pdb
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\EasyApply.Core.genruntimeconfig.cache
+D:\Git\API Projects\EasyApply\EasyApply.Core\obj\Debug\net6.0\ref\EasyApply.Core.dll

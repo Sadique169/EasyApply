@@ -2360,11 +2360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SadiqueMVC\\EasyApply\\API\\API.csproj",
+      "projectUniqueName": "D:\\Git\\API Projects\\EasyApply\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\SadiqueMVC\\EasyApply\\API\\API.csproj",
+      "projectPath": "D:\\Git\\API Projects\\EasyApply\\API\\API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\SadiqueMVC\\EasyApply\\API\\obj\\",
+      "outputPath": "D:\\Git\\API Projects\\EasyApply\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2384,17 +2384,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SadiqueMVC\\EasyApply\\EasyApply.Core\\EasyApply.Core.csproj": {
-              "projectPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Core\\EasyApply.Core.csproj"
+            "D:\\Git\\API Projects\\EasyApply\\EasyApply.Core\\EasyApply.Core.csproj": {
+              "projectPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Core\\EasyApply.Core.csproj"
             },
-            "D:\\SadiqueMVC\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj": {
-              "projectPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj"
+            "D:\\Git\\API Projects\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj": {
+              "projectPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Dto\\EasyApply.Dto.csproj"
             },
-            "D:\\SadiqueMVC\\EasyApply\\EasyApply.Model\\EasyApply.Model.csproj": {
-              "projectPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Model\\EasyApply.Model.csproj"
+            "D:\\Git\\API Projects\\EasyApply\\EasyApply.Model\\EasyApply.Model.csproj": {
+              "projectPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Model\\EasyApply.Model.csproj"
             },
-            "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj": {
-              "projectPath": "D:\\SadiqueMVC\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj"
+            "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj": {
+              "projectPath": "D:\\Git\\API Projects\\EasyApply\\EasyApply.Utility\\EasyApply.Utility.csproj"
             }
           }
         }
