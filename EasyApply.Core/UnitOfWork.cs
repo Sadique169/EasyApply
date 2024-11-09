@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EasyApply.Core.IRepositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,14 +10,18 @@ namespace EasyApply.Core
     public class UnitOfWork : IUnitOfWork
     {
         private readonly AppDbContext _context;     
+        public ICompanyRepository Company { get; }
 
         public UnitOfWork(
-          AppDbContext context        
+          AppDbContext context,
+          ICompanyRepository company
 
          )
         {
-            _context = context;           
+            _context = context; 
+            Company = company;
         }
+
 
         public int SaveChanges()
         {

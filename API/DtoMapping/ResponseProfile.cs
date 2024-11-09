@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using EasyApply.Core.Domian;
 using EasyApply.Dto;
+using EasyApply.Model;
 
 namespace API.DtoMapping
 {
@@ -9,7 +10,9 @@ namespace API.DtoMapping
         public ResponseProfile()
         {
             CreateMap<ApplicationUser, ApplicationUserDto>().ReverseMap();
-           
+
+            CreateMap<Company, CompanyModel>().ReverseMap();
+            CreateMap<Company, CompanyDto>().ReverseMap();
         }
     }
 }

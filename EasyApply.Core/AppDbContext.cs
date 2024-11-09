@@ -1,4 +1,5 @@
 ﻿using EasyApply.Core.Domian;
+using EasyApply.Core.EntityConfiguration;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -15,9 +16,12 @@ namespace EasyApply.Core
         {
         }
 
+        public virtual DbSet<Company> Company { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfiguration(new CompanyConfiguration());
         }
         
     }
